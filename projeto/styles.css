@@ -97,6 +97,7 @@ p {
         position: static;
         max-width: 100%;
         margin-right: 20%;
+        margin-bottom: -1%;
     }
 
     .titulo {
@@ -118,12 +119,24 @@ p {
 
     }
     .botao-liga{
-        display: flex;
-        margin: auto;
+        background: #6FBF44;
+        border: 5px solid #4CB538;
+        border-radius: 6px;
+        width: 124px;
+        height: 51px;
+        cursor: pointer;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 24px;
+        letter-spacing: 1px;
+        color: #FFFFFF;
+        margin: -31px 0px -578px 394px;
     }
    .botao-dodi{
         display: block;
         margin: 0 auto;
+      
+        
    }
 
     }
